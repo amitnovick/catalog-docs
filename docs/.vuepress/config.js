@@ -6,14 +6,14 @@ module.exports = {
     search: false,
     lastUpdated: 'Last Updated',
     editLinks: true,
-    repo: 'amitnovick/catalog',
-    docsDir: 'docs/content',
+    repo: 'amitnovick/catalog-docs',
+    docsDir: 'docs',
     nav: [],
     sidebar: [
       {
         title: 'Guides',
-        children: ['/getting-started', '/categories'],
-      },
-    ],
-  },
+        children: ['/getting-started', '/categories']
+      }
+    ]
+  }
 };

@@ -15,7 +15,7 @@
     "vuepress": "^1.0.3"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs/content",
+    "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "docs:readme": "cpy '../catalog/README.md' docs"
   }
