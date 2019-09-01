@@ -6,8 +6,9 @@ module.exports = {
     search: false,
     lastUpdated: 'Last Updated',
     editLinks: true,
-    repo: 'amitnovick/catalog-docs',
+    repo: 'amitnovick/catalog',
     docsDir: 'docs',
+    docsRepo: 'amitnovick/catalog-docs',
     nav: [],
     sidebar: [
       {
